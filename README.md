@@ -1,4 +1,4 @@
-Simple web scrapper that returns a dictionary with all pokemon cards prices, f the selected sets inside the first array.
+Simple web scrapper that returns a dictionary with all pokemon cards prices of the selected sets 
 
 Price source is https://www.ptcgoguide.com/gxexpokemon.html#unb , updating prices takes a lot of work so make sure to pay a visit to the website and support its creator (which is not me).
 
